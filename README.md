@@ -7,6 +7,7 @@ This repository contains structured study notes, codes, and resources related to
 -  Numpy
 -  Pandas
 -  SpaCy
+-  NetworkX
 
 Almost each topic is organized into folders with the following structure:
 topic-name/ ├── code/ ├── data/ ├── result/ ├── docs/
